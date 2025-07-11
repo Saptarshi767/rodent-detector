@@ -50,3 +50,11 @@ This project is an automated rodent (and optionally snake) detection system usin
 
 ## License
 This project is for educational and research purposes. Modify and use as needed for your application. 
+
+## Demo Video
+
+Below is a short, cartoonish line art animation video demonstrating how the rodent detector system works. The animation shows a sensor detecting a rat and a snake, with counters increasing as each animal passes by.
+
+> **Note:** If the video does not play directly in your viewer, open it with a compatible media player.
+
+![Rodent Detector Demo](Firefly%20Create%20a%20short%2C%20cartoonish%20line%20art%20animation%20video%20that%20demonstrates%20a%20rodent%20detector%20syst.mp4) 
